@@ -1,0 +1,19 @@
+.PlaceLeft {
+    text-align: left;
+   
+}
+
+.PlaceRight {
+    text-align: right;
+   
+}
+.cardStyle {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cardBodyStyle {
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
